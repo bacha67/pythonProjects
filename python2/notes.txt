@@ -1,0 +1,3 @@
+# this is my first programm and yhi is comment on pythone and how to write a pythone
+print(" i like enjera")
+print(" it's really good")
